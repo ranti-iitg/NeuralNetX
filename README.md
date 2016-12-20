@@ -10,19 +10,20 @@ Do as you wish :)
 
 
 Current Implementations:
-KNN
-SVM
-Linear Regression
-Logistic REgression
+Multiclass KNN,
+Multiclass SVM,
+Linear Regression,
+Multiclass Logistic Regression,
+Multiclass SoftmaxClassifier
 
 Coming Soon:
-Vanilla Deep Neural Networks
-Convolutional Neural Network
-Vanilla Recurrent Neural Network
-LSTM
-Deep Q-NETWORK for reinformcement learning
+Vanilla Deep Neural Networks,
+Convolutional Neural Network,
+Vanilla Recurrent Neural Network,
+LSTM,
+Deep Q-NETWORK for reinformcement learning,
 
 
 Dependencies
-Python 2.*
+Python 2.*,
 Numpy
