@@ -5,7 +5,7 @@ Name inspirations SpaceX.
 Why this?
 Because I am free whole winter.
 
-Licence:
+License:
 Do as you wish :)
 
 
