@@ -14,10 +14,10 @@ Multiclass KNN,
 Multiclass SVM,
 Linear Regression,
 Multiclass Logistic Regression,
-Multiclass SoftmaxClassifier
+Multiclass SoftmaxClassifier,
+Vanilla Deep Neural Networks
 
 Coming Soon:
-Vanilla Deep Neural Networks,
 Convolutional Neural Network,
 Vanilla Recurrent Neural Network,
 LSTM,
